@@ -62,6 +62,9 @@ class Enemy():
                 if tile_value in [EMPTY, PRESENT, CANDY]:
                     # Update the corresponding index in turns list if movement is allowed
                     self.turns[index] = True
+            else:
+                self.turns[RIGHT] = True
+                self.turns[LEFT] = True
         
         # Check adjacent tiles in all directions
         # Check rightward tile
