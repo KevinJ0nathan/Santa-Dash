@@ -23,8 +23,6 @@ timer = pygame.time.Clock()
 fps = 60
 # Initialize the counter
 counter = 0  
-# Initialize flicker status
-flicker = False  
 MAX_COUNTER = 19
 # Initialize the game window and caption
 screen = pygame.display.set_mode((screen_width, screen_height))
