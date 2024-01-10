@@ -126,9 +126,9 @@ class Player():
                 score += 10
                 score_sound.play()
 
-            # Check if the player's current position corresponds to a big dot item
+            # Check if the player's current position corresponds to a candy item
             if level[player_center_y // row_spacing][player_center_x // column_spacing] == CANDY:
-                # If a big dot is found at the player's position, remove it and increase the score by 50
+                # If a candy is found at the player's position, remove it and increase the score by 50
                 level[player_center_y // row_spacing][player_center_x // column_spacing] = 0
                 score += 50
                 score_sound.play()
