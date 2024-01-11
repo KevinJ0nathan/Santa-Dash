@@ -2,6 +2,7 @@
 <div>
 <img src="https://cdn.discordapp.com/attachments/578899261509468160/1195005171550388244/1.png?ex=65b26a4b&is=659ff54b&hm=07862452773b6db43b5175deec79e3b61c56afff1230d9feae994f19e31e8a04&" width="300">
 </div>
+
 ## Description
 
 "Santa Dash" is an engaging maze chase game that puts players in the festive shoes of Santa Claus. The objective is to navigate through a maze filled with presents and candies while evading multiple types of snowman enemies.
